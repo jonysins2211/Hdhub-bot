@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 class HDhub4uScraper:
     def __init__(self):
-        self.main_url = "https://hdhub4u.rehab"
+        self.main_url = "https://new6.hdhub4u.fo"
         self.headers = {
             'User-Agent': (
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
